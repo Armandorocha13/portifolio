@@ -322,7 +322,7 @@ main {
 
     .down-arrow {
         font-size: 20px;
-        top: 30%;
+        top: 50%;
     }
 }
 
@@ -359,3 +359,70 @@ main {
         /* Ajuste para a seta */
     }
 }
+
+
+/*contact area*/
+
+
+aside{
+    
+    text-align: center;
+    border-radius: 60px;
+}
+
+
+h2{
+    font-size: 2.5em;
+    color: #fff;
+    padding-top: 60px;
+}
+
+.contact-info{
+    font-size: 2rem;
+    padding-top: 60px;
+    
+}
+
+
+.contact-info i{
+    padding: 30px;
+    display: inline-flex;
+    font-size: 30px;
+}
+
+.contact-info i#whatsapp{
+    font-size: 30px;
+    color: green;
+}
+
+.contact-info i#facebook{
+    font-size: 30px;
+    color: rgb(0, 89, 255);
+}
+
+.contact-info i#instagram{
+    font-size: 30px;
+    color: red;
+
+}
+
+
+.contact-info button{
+    background-color: transparent;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    display: inline;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.contact-info a{
+    color: #fff;
+    font: bold;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+
+
