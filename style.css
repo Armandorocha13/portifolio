@@ -75,36 +75,7 @@ span {
 
 }
 
-.tec-linguage i#github {
-    color: rgb(0, 0, 0);
-    border: transparent;
-    font-weight: bold;
-    width: 150px;
-    padding: 9px;
-    border-radius: 30px;
-    background-color: #fff;
-    opacity: 65%;
 
-}
-
-.tec-linguage i#github:hover {
-    opacity: 100%;
-}
-
-.tec-linguage i#linkedin {
-    color: rgb(0, 85, 255);
-    border: transparent;
-    font-weight: bold;
-    width: 150px;
-    opacity: 65%;
-    padding: 9px;
-    border-radius: 30px;
-    background-color: #fff;
-}
-
-.tec-linguage i#linkedin:hover {
-    opacity: 100%;
-}
 
 .tec-linguage i#html {
     color: orangered;
@@ -417,14 +388,14 @@ h2{
 }
 
 .contact-info i#facebook {
-    transition: all 0.1s ease; /* Adiciona uma transição suave para o efeito */
+    transition: all 0.1s ease;
 }
 
 .contact-info i#facebook:hover {
-    color: rgb(3, 32, 163); /* Cor do ícone ao passar o mouse */
-    font-size: 45px; /* Tamanho do ícone ao passar o mouse */
-    background-color: #fff; /* Cor de fundo do ícone */
-    border-radius: 80px; /* Bordas arredondadas do ícone */
+    color: rgb(3, 32, 163);
+    font-size: 45px;
+    background-color: #fff;
+    border-radius: 80px;
     box-shadow: 
         0 0 5px rgb(3, 32, 163), 
         0 0 10px rgb(3, 32, 163), 
@@ -435,21 +406,17 @@ h2{
         0 0 35px rgb(3, 32, 163);
 }
 
-
-.contact-info i#instagram{
-    font-size: 45px;
-        color: #fff;
-
-}
 .contact-info i#instagram {
-    transition: all 0.1s ease; /* Adiciona uma transição suave para o efeito */
+    font-size: 45px;
+    color: #fff;
+    transition: all 0.1s ease;
 }
 
 .contact-info i#instagram:hover {
-    color: rgb(160, 22, 22); /* Cor do ícone ao passar o mouse */
-    font-size: 45px; /* Tamanho do ícone ao passar o mouse */
-    background-color: #fff; /* Cor de fundo do ícone */
-    border-radius: 80px; /* Bordas arredondadas do ícone */
+    color: rgb(160, 22, 22);
+    font-size: 45px;
+    background-color: #fff;
+    border-radius: 80px;
     box-shadow: 
         0 0 5px rgb(160, 22, 22), 
         0 0 10px rgb(160, 22, 22), 
@@ -460,6 +427,47 @@ h2{
         0 0 35px rgb(160, 22, 22);
 }
 
+.contact-info i#github {
+    font-size: 45px;
+    color: #fff;
+    transition: all 0.1s ease;
+}
+
+.contact-info i#github:hover {
+    color: rgb(2, 2, 2);
+    font-size: 45px;
+    background-color: #fff;
+    border-radius: 80px;
+    box-shadow: 
+        0 0 5px rgb(128, 128, 128), 
+        0 0 10px rgb(128, 128, 128), 
+        0 0 15px rgb(128, 128, 128), 
+        0 0 20px rgb(128, 128, 128), 
+        0 0 25px rgb(128, 128, 128), 
+        0 0 30px rgb(128, 128, 128), 
+        0 0 35px rgb(128, 128, 128);
+}
+
+.contact-info i#linkedin {
+    font-size: 45px;
+    color: #fff;
+    transition: all 0.1s ease;
+}
+
+.contact-info i#linkedin:hover {
+    color: rgb(7, 64, 223);
+    font-size: 45px;
+    background-color: #fff;
+    border-radius: 80px;
+    box-shadow: 
+        0 0 5px rgb(25, 79, 230), 
+        0 0 10px rgb(25, 79, 230), 
+        0 0 15px rgb(25, 79, 230), 
+        0 0 20px rgb(25, 79, 230), 
+        0 0 25px rgb(25, 79, 230), 
+        0 0 30px rgb(25, 79, 230), 
+        0 0 35px rgb(25, 79, 230);
+}
 
 
 .contact-info button{
