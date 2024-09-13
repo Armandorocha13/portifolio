@@ -109,6 +109,22 @@ span {
     opacity: 100%;
 }
 
+.tec-linguage i#boodstrap {
+    color: rgb(0, 85, 255);
+    width: 150px;
+    border: transparent;
+    opacity: 65%;
+    font-weight: bold;
+    padding: 9px;
+    border-radius: 30px;
+    background-color: #fff;
+}
+
+.tec-linguage i#boodstrap:hover {
+    opacity: 100%;
+}
+
+
 .tec-linguage i#javascript {
     color: rgb(210, 156, 7);
     font-weight: bold;
